@@ -1,0 +1,34 @@
+# Healthcare Length of Stay & Cost Analysis
+
+## Project Overview
+Hospitals face increasing pressure to reduce patient length of stay while controlling costs. This project analyses hospital admission data to identify factors influencing length of stay and associated costs.
+
+## Objectives
+- Identify drivers of hospital length of stay
+- Analyse cost patterns across departments
+- Identify high-risk patient groups
+- Build a Power BI dashboard for decision support
+
+## Tools Used
+Python (Pandas, NumPy, Matplotlib)
+PostgreSQL
+Power BI
+Jupyter Notebook
+
+## Project Workflow
+1. Synthetic dataset generation
+2. Data cleaning and preparation
+3. Exploratory data analysis
+4. Hypothesis testing
+5. SQL analytics
+6. Dashboard development
+
+## Dashboard Preview
+![Dashboard](images/dashboard_overview.png)
+
+## Key Insights
+- ICU and surgery departments show the longest stays.
+- Length of stay strongly drives total hospital cost.
+- Elderly and chronic disease patients show higher LOS.
+
+## Repository Structure
